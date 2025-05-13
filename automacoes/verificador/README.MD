@@ -1,0 +1,1 @@
+Automação feita para verificar se há algum anexos não cadastrados no sistema.
